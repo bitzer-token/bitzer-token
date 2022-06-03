@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 <!---
-bitzer-token/bitzer-token is a GameFi Play To Earn
+bitzer-token/bitzer-token is a Defi, Staking Yield, GameFi, NFts, Metaverse, Play To Earn
 --->
 
 Token Specification
